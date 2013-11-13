@@ -1,3 +1,11 @@
+/*
+    *  hexStr2double.cpp
+    *
+    *  Created on:  Nov 5, 2013
+    *  Author: sijiewang
+*/
+
+
 #include <iostream>
 #include <stdio.h>
 #include <string.h>
